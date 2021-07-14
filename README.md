@@ -4,7 +4,7 @@
 
 # Hi, I'm haroldfcv
 
-A Computer Science student from Costa Rica
+A Computer Science student
 
 ## Tools
 
