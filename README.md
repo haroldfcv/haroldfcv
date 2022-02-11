@@ -1,6 +1,7 @@
 # Hi, I'm haroldfcv
 
 A Computer Science student.
+
 I like programming, playing videogames, and drawing.
 
 Still learning: 
